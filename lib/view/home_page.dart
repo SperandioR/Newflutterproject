@@ -9,21 +9,6 @@ import 'package:movie_app/view/movie_details_page.dart';
 import 'package:movie_app/view/widgets/movie_tag_widget.dart';
 import 'package:movie_app/view/widgets/swipe_shimmer.dart';
 import 'package:movie_app/view/widgets/upcoming_shimmer.dart';
-//
-//
-//  ContentView.flutter
-//  MovieApp
-//
-//  Created by  Faiz Rhm
-
-// Mark: Instagram
-// Faiz Rhm
-// Mark: faiz.rhm
-
-// Mark: Github
-// Faiz Rhm
-// Mark: https://github.com/Faiz-rhm/
-//
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
