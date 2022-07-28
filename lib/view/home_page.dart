@@ -31,7 +31,7 @@ class HomePage extends StatelessWidget {
             onPressed: () {},
           ),
           IconButton(
-            icon: const Icon(IconlyLight.search),
+            icon: const Icon(IconlyLight.search),// search bar.
             onPressed: () {},
           ),
         ],
