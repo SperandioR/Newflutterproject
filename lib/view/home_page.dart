@@ -8,6 +8,8 @@ import 'package:movie_app/view/movie_details_page.dart';
 import 'package:movie_app/view/widgets/movie_tag_widget.dart';
 import 'package:movie_app/view/widgets/swipe_shimmer.dart';
 import 'package:movie_app/view/widgets/upcoming_shimmer.dart';
+import 'package:intl/intl.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 
 class HomePage extends StatelessWidget {

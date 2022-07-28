@@ -1,0 +1,8 @@
+{
+    "helloworld": "Hello World!",
+    "tittle": "English Applicantion",
+    "@helloworld": {
+        "description": "hello, subscrible the Daves Tecnologia Channel"
+    }
+
+}

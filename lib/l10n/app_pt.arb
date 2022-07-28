@@ -1,0 +1,8 @@
+{
+    "helloworld": "Olá Mundo!",
+    "tittle": "Aplicativo em Português",
+    "@helloworld": {
+        "description": "hello, subscrible the Daves Tecnologia Channel"
+    }
+
+}

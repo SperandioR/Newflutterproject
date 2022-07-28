@@ -9,6 +9,8 @@ import 'package:movie_app/view/widgets/recommended.dart';
 import 'package:movie_app/view/widgets/sliver_app_bar.dart';
 import 'package:rich_text_view/rich_text_view.dart';
 import 'package:skeletons/skeletons.dart';
+import 'package:intl/intl.dart';
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 class MovieDetailsPage extends StatelessWidget {
 
