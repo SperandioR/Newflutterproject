@@ -1,14 +1,27 @@
-A new Flutter project.
+## AppMovie
 
-## Getting Started
+## Um aplicativo de visualização simples, mas suficiente para buscar:
 
-This project is a starting point for a Flutter application.
+Filmes populares Filmes mais recentes Filmes com as melhores classificações agora em reprodução, Filmes futuros usando Api de themoviedb.org
 
-A few resources to get you started if this is your first Flutter project:
+##
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Recursos do aplicativo.
+- Funcionalidade de pesquisa
+- Tela de integração
+- Selecione o filme favorito
+- Tela inicial
+- Filmes categoria diferente
+- Filme popular
+- Próximo filme
+- Negociante da semana
+- Filme mais bem avaliado
+- Detalhe dos filmes
+- Elenco do filme
+- Detalhe do membro do elenco
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/102339706/194805441-e0893e62-b139-42c3-9d8e-15af0f0fa3c8.jpg" width="350px" />
+</div>
